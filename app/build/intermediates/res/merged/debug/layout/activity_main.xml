@@ -18,21 +18,20 @@
         android:id="@+id/startBtn"
         android:layout_width="150dp"
         android:layout_height="wrap_content"
-        android:layout_marginTop="49dp"
         android:text="@string/start"
+        android:layout_marginTop="57dp"
         android:layout_below="@+id/messageTextView"
-        android:layout_toLeftOf="@+id/messageTextView"
-        android:layout_toStartOf="@+id/messageTextView" />
+        android:layout_alignRight="@+id/downloadTextView"
+        android:layout_alignEnd="@+id/downloadTextView" />
 
     <Button
         android:id="@+id/stopBtn"
         android:layout_width="150dp"
         android:layout_height="wrap_content"
         android:text="@string/stop"
-        android:layout_alignBaseline="@+id/startBtn"
-        android:layout_alignBottom="@+id/startBtn"
-        android:layout_toRightOf="@+id/messageTextView"
-        android:layout_toEndOf="@+id/messageTextView" />
+        android:layout_below="@+id/startBtn"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="68dp" />
 
     <TextView
         android:id="@+id/downloadTextView"
@@ -40,7 +39,8 @@
         android:layout_height="wrap_content"
         android:text="@string/download_count"
         android:textSize="20sp"
-        android:layout_centerVertical="true"
-        android:layout_centerHorizontal="true" />
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="105dp" />
 
 </RelativeLayout>

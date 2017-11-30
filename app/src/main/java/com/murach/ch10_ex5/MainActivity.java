@@ -32,6 +32,14 @@ public class MainActivity extends Activity{
         stopBtn.setOnClickListener(clickListener);
     }
 
+    protected void onPause() {
+        super.onPause();
+    }
+
+    protected void onResume() {
+        super.onResume();
+    }
+
     class ClickListener implements View.OnClickListener {
         @Override
         public void onClick(View v) {
@@ -47,6 +55,7 @@ public class MainActivity extends Activity{
     }
 
     private void startTimer() {
+        onResume();
         final long startMillis = System.currentTimeMillis();
         Timer timer = new Timer(true);
         TimerTask task = new TimerTask() {

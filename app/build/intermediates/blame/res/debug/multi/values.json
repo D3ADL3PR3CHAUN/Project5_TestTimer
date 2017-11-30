@@ -1,0 +1,133 @@
+[
+    {
+        "outputFile": "C:\\Users\\660253266\\AndroidStudioProjects\\Project5_TestTimer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 50,
+                    "endOffset": 101
+                },
+                "from": {
+                    "file": "C:\\Users\\660253266\\AndroidStudioProjects\\Project5_TestTimer\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 106,
+                    "endColumn": 57,
+                    "endOffset": 159
+                },
+                "from": {
+                    "file": "C:\\Users\\660253266\\AndroidStudioProjects\\Project5_TestTimer\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 204,
+                        "endColumn": 57,
+                        "endOffset": 257
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 164,
+                    "endColumn": 50,
+                    "endOffset": 210
+                },
+                "from": {
+                    "file": "C:\\Users\\660253266\\AndroidStudioProjects\\Project5_TestTimer\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 215,
+                    "endColumn": 39,
+                    "endOffset": 250
+                },
+                "from": {
+                    "file": "C:\\Users\\660253266\\AndroidStudioProjects\\Project5_TestTimer\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 263,
+                        "endColumn": 39,
+                        "endOffset": 298
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 255,
+                    "endColumn": 37,
+                    "endOffset": 288
+                },
+                "from": {
+                    "file": "C:\\Users\\660253266\\AndroidStudioProjects\\Project5_TestTimer\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 304,
+                        "endColumn": 37,
+                        "endOffset": 337
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 293,
+                    "endColumn": 39,
+                    "endOffset": 328
+                },
+                "from": {
+                    "file": "C:\\Users\\660253266\\AndroidStudioProjects\\Project5_TestTimer\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 163,
+                        "endColumn": 39,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 333,
+                    "endLine": 10,
+                    "endColumn": 12,
+                    "endOffset": 411
+                },
+                "from": {
+                    "file": "C:\\Users\\660253266\\AndroidStudioProjects\\Project5_TestTimer\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 416,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 483
+                },
+                "from": {
+                    "file": "C:\\Users\\660253266\\AndroidStudioProjects\\Project5_TestTimer\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    }
+]
